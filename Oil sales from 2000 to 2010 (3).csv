@@ -1,0 +1,162 @@
+﻿Town,Sale Year ,Price USD/bbl,Quantity of oil sold. bbl,Oil extraction method,Oil transportation method,Type of oil sales
+Gerry,2007,80.054,106,Fountain,railway,Kerosene
+Pomfret,2000,67.254,530,Pump equipment,railway,Petrol
+Scipio,2006,58.454,17742,Fountain,automotive,Petrol
+Pomfret,2003,73.654,1582,Pump equipment,water,Petrol
+Pomfret,2008,52.054,500,Gaslift,railway,Petrol
+Pomfret,2003,64.054,18492,Fountain,automotive,Petrol
+Newstead,2009,64.854,100,Fountain,pipeline,Kerosene
+Pomfret,2007,48.054,2351,Pump equipment,pipeline,Petrol
+Pomfret,2003,64.854,1331,Gaslift,pipeline,Petrol
+Scipio,2007,56.054,758,Fountain,water,Petrol
+Villenova,2000,76.054,10516,Pump equipment,pipeline,Petrol
+Pomfret,2007,62.454,15158,Pump equipment,railway,Kerosene
+Pomfret,2008,79.254,11807,Fountain,automotive,Petrol
+Pomfret,2002,75.254,10783,Pump equipment,pipeline,Petrol
+Pomfret,2004,56.854,40509,Gaslift,pipeline,Petrol
+Pomfret,2010,68.054,4465,Gaslift,railway,Petrol
+Aurelius,2006,65.654,10575,Pump equipment,railway,Petrol
+Pomfret,2003,68.854,250,Pump equipment,automotive,Petrol
+Springport,2007,67.254,1471,Fountain,pipeline,Kerosene
+Springport,2002,72.054,100,Pump equipment,pipeline,Petrol
+Pomfret,2005,68.854,2570,Gaslift,railway,Petrol
+Villenova,2006,59.254,6624,Gaslift,automotive,Petrol
+Pomfret,2008,76.854,2271,Fountain,water,Petrol
+Pomfret,2010,55.254,16041,Pump equipment,pipeline,Petrol
+Yorkshire,2000,70.454,1200,Pump equipment,railway,Petrol
+Pomfret,2004,66.454,1352,Gaslift,pipeline,Petrol
+Springport,2000,57.654,19563,Gaslift,automotive,Petrol
+Pomfret,2010,73.654,1000,Pump equipment,pipeline,Petrol
+Pomfret,2010,66.454,2923,Pump equipment,water,Petrol
+Pomfret,2004,56.054,1000,Pump equipment,railway,Petrol
+Pomfret,2006,68.854,400,Pump equipment,water,Petrol
+Portage,2008,73.654,694,Gaslift,pipeline,Petrol
+Pomfret,2007,56.054,0,Gaslift,pipeline,Petrol
+Hanover,2008,50.454,219,Gaslift,railway,Petrol
+Brant,2004,51.254,135,Pump equipment,railway,Petrol
+North Harmony,2007,55.254,2346,Gaslift,pipeline,Kerosene
+Aurelius,2008,62.454,18756,Fountain,pipeline,Kerosene
+Ripley,2000,79.254,16555,Gaslift,water,Kerosene
+Springport,2001,79.254,1684,Pump equipment,water,Petrol
+Aurelius,2009,57.654,0,Pump equipment,pipeline,Petrol
+Pomfret,2004,67.254,100,Gaslift,water,Petrol
+Pomfret,2007,48.054,13672,Gaslift,pipeline,Petrol
+Pomfret,2006,52.854,100,Pump equipment,railway,Petrol
+Villenova,2000,72.854,364,Pump equipment,automotive,Petrol
+Pomfret,2007,54.454,6332,Gaslift,pipeline,Kerosene
+Pomfret,2009,71.254,69103,Fountain,pipeline,Petrol
+Pomfret,2007,67.254,384,Gaslift,pipeline,Petrol
+Pomfret,2006,54.454,12577,Gaslift,water,Petrol
+Chautauqua,2004,56.854,2949,Gaslift,railway,Petrol
+Springport,2005,61.654,5102,Fountain,water,Petrol
+Sheridan,2001,62.454,228,Pump equipment,pipeline,Petrol
+Villenova,2003,58.454,16731,Pump equipment,pipeline,Kerosene
+North Harmony,2000,75.254,5,Pump equipment,pipeline,Petrol
+Pomfret,2010,76.054,445,Pump equipment,pipeline,Petrol
+Ward,2008,71.254,0,Gaslift,automotive,Petrol
+Pomfret,2010,60.854,18888,Gaslift,water,Petrol
+Pomfret,2010,65.654,18062,Gaslift,pipeline,Petrol
+Pomfret,2006,52.054,1848,Pump equipment,railway,Petrol
+Springport,2009,49.654,0,Pump equipment,pipeline,Petrol
+Aurelius,2008,54.454,22543,Pump equipment,pipeline,Kerosene
+Gerry,2002,49.654,80,Gaslift,pipeline,Petrol
+Springport,2006,71.254,227,Fountain,pipeline,Petrol
+Villenova,2006,74.454,16695,Gaslift,water,Petrol
+Pomfret,2009,68.854,12092,Gaslift,water,Petrol
+Pomfret,2004,51.254,4010,Pump equipment,water,Petrol
+Pomfret,2004,62.454,7620,Gaslift,pipeline,Petrol
+Pomfret,2010,79.254,3777,Gaslift,railway,Petrol
+Pomfret,2008,67.254,3581,Gaslift,railway,Petrol
+Scipio,2009,53.654,15514,Pump equipment,automotive,Kerosene
+Ward,2000,56.854,28678,Gaslift,pipeline,Kerosene
+Sherman,2004,77.654,44336,Fountain,pipeline,Petrol
+Pomfret,2005,60.054,10952,Gaslift,water,Petrol
+Dunkirk,2002,65.654,15748,Gaslift,water,Petrol
+Aurelius,2003,67.254,42241,Gaslift,pipeline,Petrol
+Pomfret,2006,78.454,8680,Pump equipment,pipeline,Petrol
+Pomfret,2009,53.654,0,Pump equipment,pipeline,Petrol
+Pomfret,2008,56.854,7317,Gaslift,water,Petrol
+Pomfret,2005,72.054,5728,Gaslift,pipeline,Petrol
+Pomfret,2009,64.054,11885,Pump equipment,railway,Petrol
+Villenova,2010,72.854,0,Gaslift,pipeline,Petrol
+Pomfret,2002,48.054,10327,Gaslift,automotive,Kerosene
+Brant,2000,49.654,6587,Gaslift,pipeline,Petrol
+Pomfret,2009,54.454,140,Pump equipment,pipeline,Petrol
+Perrysburg,2001,58.454,6881,Fountain,water,Petrol
+Pomfret,2007,73.654,360,Gaslift,pipeline,Petrol
+Pomfret,2010,70.454,3,Gaslift,pipeline,Petrol
+Pomfret,2001,80.054,7117,Gaslift,pipeline,Kerosene
+Springport,2005,71.254,11149,Pump equipment,railway,Kerosene
+Darien,2008,64.054,19559,Pump equipment,pipeline,Petrol
+Ellery,2005,72.054,885,Gaslift,pipeline,Petrol
+Springport,2007,48.054,156,Gaslift,pipeline,Petrol
+Elma,2010,60.054,574,Gaslift,pipeline,Petrol
+Aurelius,2010,72.854,13658,Gaslift,water,Petrol
+Aurelius,2002,56.854,1195,Fountain,pipeline,Petrol
+Hanover,2004,76.854,2817,Pump equipment,automotive,Petrol
+Aurelius,2001,76.854,190,Gaslift,pipeline,Petrol
+Perry,2006,48.854,8288,Gaslift,railway,Petrol
+Aurelius,2010,78.454,9293,Pump equipment,pipeline,Petrol
+Springport,2001,63.254,15985,Gaslift,pipeline,Petrol
+Springport,2009,75.254,15670,Gaslift,pipeline,Petrol
+Aurelius,2005,52.854,0,Fountain,water,Petrol
+Pomfret,2004,56.054,10299,Fountain,pipeline,Petrol
+Springport,2006,67.254,3440,Pump equipment,pipeline,Petrol
+Aurelius,2003,62.454,150,Gaslift,railway,Kerosene
+Pomfret,2006,48.054,2280,Gaslift,pipeline,Kerosene
+Springport,2000,57.654,673,Pump equipment,automotive,Kerosene
+Springport,2001,76.854,5432,Fountain,pipeline,Petrol
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
